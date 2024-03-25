@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import bcyrpt from "bcrypt";
+// import bcyrpt from "bcrypt";
 import * as argon from "argon2";
 import validator from "validator";
 const Schema = mongoose.Schema;
