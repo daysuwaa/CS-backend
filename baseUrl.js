@@ -1,1 +1,1 @@
-const baseUrl = "https://cs-backend-ch7p.onrender.com/codes/add";
+const baseUrl = "https://cs-backend-ch7p.onrender.com";
